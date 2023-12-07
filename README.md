@@ -1,4 +1,5 @@
                                     Hotel Reservation System
+The Management system has basic fuctionalities like booking a room, displayinng customer records, listing allotted rooms, editing records (modify,delete or bill) and overall main menu to navigate through these option
 ![Screenshot 2023-12-07 215827](https://github.com/KrazyQwert/Advanced-Comprog/assets/145512801/0ec46ec5-be35-4713-a84f-9f316a6e6421)
 ![Screenshot 2023-12-07 215916](https://github.com/KrazyQwert/Advanced-Comprog/assets/145512801/1ed6df70-6694-423e-b6ea-07a63388d97a)
 ![Screenshot 2023-12-07 215931](https://github.com/KrazyQwert/Advanced-Comprog/assets/145512801/2ee71b0e-3f4b-4827-91ff-1102e802cc95)
