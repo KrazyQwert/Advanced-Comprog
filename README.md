@@ -6,3 +6,8 @@
 ![Screenshot 2023-12-07 220049](https://github.com/KrazyQwert/Advanced-Comprog/assets/145512801/dc7e92fb-7b70-416d-a419-ea073a47b8df)
 ![Screenshot 2023-12-07 220410](https://github.com/KrazyQwert/Advanced-Comprog/assets/145512801/e058d075-5b8d-4b31-a9e7-5e71d77f9d4c)
 ![Screenshot 2023-12-07 220423](https://github.com/KrazyQwert/Advanced-Comprog/assets/145512801/d6392539-64c5-435a-a18e-b5b30211bea1)
+Eval Member BSIT-2101
+* A. Anonuevo, VJ Angelo - 25
+* B. Fabonan, John Benny - 25
+* C. Pongos, Raymart Jay - 25
+* D. Sanchez, Jesriel    - 25
