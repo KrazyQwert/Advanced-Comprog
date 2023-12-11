@@ -18,6 +18,7 @@
 **Sustainable Development Goals (SGD)**
 * **Goal 8:** Decent Work and Economic Growth
 * **Goal 11:** Sustainable Cities and Communities
+  
 **Eval Member BSIT-2101**
 * A. Anonuevo, VJ Angelo - 25
 * B. Fabonan, John Benny - 25
