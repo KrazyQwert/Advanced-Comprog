@@ -1,4 +1,4 @@
-                                    Hotel Reservation System
+                                    **Hotel Reservation System**
 **Description:**
 The Management system has basic fuctionalities like booking a room, displayinng customer records, listing allotted rooms, editing records (modify,delete or bill) and overall main menu to navigate through these option.
 
